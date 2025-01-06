@@ -35,7 +35,7 @@ Also, it would lay the groundwork for future regulation aimed at mitigating fake
 
 ### Deepfakes-powered harrasment and scams
 
-Deepfakes cannot only steal famous people's identities and [create disinformation](https://time.com/6565446/biden-deepfake-audio/), but they can also impersonate you.
+Deepfakes cannot only steal famous people's identities and [create disinformation]([https://time.com/6565446/biden-deepfake-audio/](https://time.com/6686574/meta-oversight-board-biden-video/)), but they can also impersonate you.
 Anyone with photos, videos, or audio of someone (and enough knowledge) can create deepfakes of them and use them to commit fraud, harass them, or create sexual non-consensual material.
 About [96% of all deepfake content is sexual material](https://www.technologyreview.com/2019/10/07/132735/deepfake-porn-deeptrace-legislation-california-election-disinformation/).
 
